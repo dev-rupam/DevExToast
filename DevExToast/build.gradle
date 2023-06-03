@@ -11,7 +11,7 @@ group = 'com.github.dev-rupam'
 android {
     namespace 'com.devex.devextoast'
     compileSdk 33
-
+    namespace = "com.devex.devextoast"
     defaultConfig {
         minSdk 23
         targetSdk 33
