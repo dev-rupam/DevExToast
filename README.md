@@ -1,5 +1,7 @@
 # DevExToast
-My Toast helper
+
+[![](https://jitpack.io/v/dev-rupam/DevExToast.svg)](https://jitpack.io/#dev-rupam/DevExToast)
+
 > Step 1. Add the JitPack repository to your build file
 
 ```gradle
