@@ -2,7 +2,6 @@ package com.devex.devextoastproj
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.devex.devextoast.DevExToast.showToast
 import com.devex.devextoast.R
 
 class MainActivity : AppCompatActivity() {
@@ -10,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        showToast(this@MainActivity,"My Lib",false)
     }
 }
